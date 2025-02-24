@@ -1,0 +1,14 @@
+C:\Users\alber\Desktop\Projecto3\tarea3\bin\Debug\net9.0\tarea3.exe
+C:\Users\alber\Desktop\Projecto3\tarea3\bin\Debug\net9.0\tarea3.deps.json
+C:\Users\alber\Desktop\Projecto3\tarea3\bin\Debug\net9.0\tarea3.runtimeconfig.json
+C:\Users\alber\Desktop\Projecto3\tarea3\bin\Debug\net9.0\tarea3.dll
+C:\Users\alber\Desktop\Projecto3\tarea3\bin\Debug\net9.0\tarea3.pdb
+C:\Users\alber\Desktop\Projecto3\tarea3\obj\Debug\net9.0\tarea3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alber\Desktop\Projecto3\tarea3\obj\Debug\net9.0\tarea3.AssemblyInfoInputs.cache
+C:\Users\alber\Desktop\Projecto3\tarea3\obj\Debug\net9.0\tarea3.AssemblyInfo.cs
+C:\Users\alber\Desktop\Projecto3\tarea3\obj\Debug\net9.0\tarea3.csproj.CoreCompileInputs.cache
+C:\Users\alber\Desktop\Projecto3\tarea3\obj\Debug\net9.0\tarea3.dll
+C:\Users\alber\Desktop\Projecto3\tarea3\obj\Debug\net9.0\refint\tarea3.dll
+C:\Users\alber\Desktop\Projecto3\tarea3\obj\Debug\net9.0\tarea3.pdb
+C:\Users\alber\Desktop\Projecto3\tarea3\obj\Debug\net9.0\tarea3.genruntimeconfig.cache
+C:\Users\alber\Desktop\Projecto3\tarea3\obj\Debug\net9.0\ref\tarea3.dll
